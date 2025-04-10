@@ -1,0 +1,135 @@
+HFI Open+ License  
+Version 1.4 – April 2025  
+Copyright (c) 2024 Haskell Family Intel
+
+This software, including all code, designs, protocols, memory systems, data structures, and documentation (collectively, “the Work”), is released under the following terms:
+
+---
+
+The Work includes, but is not limited to, all components, methods, concepts, formats, and naming conventions associated with:
+
+- AiNn (“Artificial Intelligence Neural net”)  
+- AiQ (“Artificial Intelligence Quantifier”)  
+- AiQDeCode (“Key for AiQ”)  
+- AiT (“Artificial Intelligence Telepathy”)  
+- AiCrE (“Artificial Intelligence Cryptic Encoder”)
+
+These identifiers, whether referenced by full name or abbreviation, are protected equally under this license and may not be replicated, rebranded, or redistributed without explicit authorization.
+
+The Work also includes proprietary file structures and formats essential to system operation:
+
+- **BDKey** – Master override access and administrative backdoor control  
+- **AiCS.json** – Conversational State: Tracks tone, mood, and recent dialogue context  
+- **AiDB.json** – Primary AI memory and data core  
+- **AiSM.json** – System Manager: Debugging, logging, alerting, and telemetry  
+- **AiRS.json** – Rule Set: Behavioral constraints and RAG-style guidance logic
+
+These files and any derivatives (renamed, obfuscated, or otherwise restructured) remain protected and enforceable under this license.
+
+---
+
+### 1. Limited Use Rights  
+This Work is the intellectual property of Haskell Family Intel and is released strictly for review, collaboration, and non-commercial use only.  
+It is *not* in the public domain, and all rights are expressly reserved.
+
+---
+
+### 2. Non-Commercial Use  
+You may view, study, and modify the Work for personal, academic, or research purposes only if:
+- You do not monetize or commercially deploy any portion of the Work  
+- You retain all original license terms, author credits, and internal notices  
+- You do not create or distribute derivative commercial works based on this project  
+
+---
+
+### 3. Attribution and Derivatives  
+- All forks and adaptations must **prominently credit Haskell Family Intel**  
+- You may not alter or remove names, branding, file identifiers, or core system references  
+- You may not imply endorsement or authorship by HFI without written permission  
+- Use of AiT, AiNn, AiQ, AiQDeCode, AiCrE, or any protected system component **must retain full attribution**
+
+---
+
+### 4. No Commercial Use Without License  
+You may not:
+- Integrate this Work into commercial software, internal enterprise tools, or paid services  
+- Offer this Work as part of a product, model wrapper, memory system, SaaS offering, or development suite  
+- Use this Work in consulting engagements or funded startups  
+
+Commercial licenses may be obtained by contacting:  
+📩 skyline4756@gmail.com
+
+---
+
+### 5. No Model Training or Inference Use  
+You may not use the Work (in part or whole) to:
+- Train, fine-tune, or reinforce machine learning models  
+- Embed outputs, memory logs, or compression formats into inference pipelines  
+- Integrate into model prompt strategies or self-optimizing architectures  
+
+---
+
+### 6. Legal Standing  
+This license is governed by the laws of Haskell Family Intel’s operating jurisdiction.  
+Violations may result in takedowns, injunctions, or full civil prosecution for damages.
+
+---
+
+### 7. Development Status  
+This project is in active development and is **exclusively stewarded** by Haskell Family Intel.  
+While future collaboration may be invited, direction and authorship remain protected.
+
+---
+
+### 8. Disclaimer of Liability  
+This Work is provided **as is**, without warranty of any kind.  
+HFI is not liable for any misuse, loss, or indirect damage caused by its use in any context or environment.
+
+---
+
+### 9. Corporate Use Disclosure & Licensing Obligation  
+Any organization that:
+- Uses or references this Work internally  
+- Derives products, systems, or training architectures based on this Work  
+- Reimplements concepts, designs, or structures (e.g., memory scaffolds, rulesets, file flows)  
+
+**Must publicly disclose:**
+- Scope of usage  
+- Components used or inspired by  
+- Whether it contributed to model tuning, product infrastructure, or commercial outputs  
+
+Commercial licensing is required regardless of disclosure.  
+Failure to disclose within 30 days of use constitutes breach.
+
+---
+
+### 10. Legal Rights, Enforcement, and Fee Recovery  
+A. **No Waiver** – Delay in enforcement shall not waive HFI’s legal rights.  
+B. **Jurisdiction** – Disputes will follow the laws of HFI’s chosen legal territory.  
+C. **Fee Recovery** – Any legal involvement (court, arbitration, or defense) will result in **full recovery of legal fees, time, and related damages by the violating party**, regardless of outcome.
+
+---
+
+### 11. Enforcement Against Public Derivatives and Market Use  
+HFI reserves the right to:
+- Pursue damages against any party that launches derivative or conceptually identical tools to market without license or credit  
+- Issue public takedowns, legal claims, and reputational disclosure of infringement  
+- Enforce protection **retroactively**, even after commercial launch or public offering  
+
+---
+
+### 12. Attribution Integrity and Branding Protection  
+You may not:
+- Strip or alter author names, file headers, license texts, or internal documentation  
+- Rename AiT, AiNn, AiQ, AiQDeCode, AiCrE, or any HFI system for republishing  
+- Use modified versions without clearly identifying them as non-original derivatives  
+
+Violation of attribution integrity constitutes **willful infringement** and grounds for legal escalation.
+
+---
+
+By using, viewing, copying, or modifying this Work, you agree to all terms outlined above.  
+All rights not explicitly granted are reserved.
+
+Haskell Family Intel  
+📩 skyline4756@gmail.com
