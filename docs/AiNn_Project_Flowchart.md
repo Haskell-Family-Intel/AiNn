@@ -1,14 +1,19 @@
-AiNn Project Flowchart (Text-Based Representation)
-Conventions
-	• START/END: All caps, surrounded by ===
-	• [Process]: Square brackets for action steps
-	• <Decision>: Angle brackets for decision points, followed by Y: (Yes) and N: (No) branches
-	• -->: Flow direction
-	• ...>: Dotted arrow for future/planned steps
-	• Notes: Italicized comments for context
-Flowchart
-text
-CollapseWrapCopy
+# 🧠 AiNn Project Flowchart  
+*System Architecture Logic – Text-Based Representation*
+
+---
+
+## Conventions
+- `=== START/END ===`: Major session boundaries  
+- `[Process]`: Action steps  
+- `<Decision>`: Conditional logic checkpoints  
+- `-->`: Flow direction  
+- `...>`: Planned or future integration  
+- *Italicized Notes*: Comments on implementation or future roadmap
+
+---
+
+## 🔄 Flowchart
 === START: User Initiates Chat ===
     |
     v
@@ -30,7 +35,7 @@ CollapseWrapCopy
     |         v
     |     <Is Memory Stack Approaching Token Limit?>
     |         Y: --> [Summarize and Compress Memory Stack]
-    |         |         | *Note: Enhances compression on dynamic text*
+    |         |         | 
     |         |         v
     |         |     [Offload Excess Data to Backend]
     |         |         | 
@@ -45,14 +50,26 @@ CollapseWrapCopy
     v
 === END: Chat Session Concludes ===
 
-Explanation of the Representation
-	• Flow Simulation: 
-		○ Vertical | and v show the main sequence.
-		○ Horizontal --> and branches (Y:, N:) indicate decisions and their outcomes.
-		○ Loops are marked with “Back to” for clarity.
-	• Key Components: 
-		○ AI Chat Interface: Starts the process and delivers responses.
-		○ Memory Stack: Central to context retrieval, updates, and compression.
-		○ Backend Data Management: Appears as a future step with a dotted arrow (...>), reflecting its planned Long term Database integration.
-	• Compression Focus: Notes emphasize your current dev cycle—70% AiQ compression plus hybrid lossless approaches applied to dynamic text in [Update Memory Stack] and [Summarize and Compress].
-	• Readability: Concise yet detailed, with every step and decision explicit.
+---
+
+## 🧠 Architecture Summary
+
+This flowchart outlines the key logic of the **AiNn memory system**:
+
+### 🔁 Real-Time Stack:
+- Captures recent interactions for short-term recall
+- Runs compression to optimize LLM token usage
+
+### 🧠 Decision Points:
+- **Context retrieval**: Determines whether to inject memory at runtime
+- **Token limit check**: Triggers summarization + offloading if memory stack overloads
+
+### 📦 Future-Ready Integration:
+- Data offload to **Database backend** is marked as planned but not yet active
+- Memory management handled with modular rules (via AiRS), anticipating external orchestration
+
+---
+
+## 📌 Status
+This diagram reflects the **current working logic** of AiNn and informs both dev-side implementation and long-term architectural evolution.  
+All compression, retrieval, and offloading protocols are protected under the **HFI Open+ License v1.4**
