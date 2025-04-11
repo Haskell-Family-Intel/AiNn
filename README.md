@@ -57,7 +57,7 @@ This project is protected under the **HFI Open+ License v1.4**
 - ❌ No rebranding, attribution removal, or derivative misrepresentation  
 - ✅ Legal enforcement includes attribution integrity, corporate audit rights, and retroactive IP defense
 
-💼 Licensing inquiries: [skyline4756@gmail.com](mailto:skyline4756@gmail.com)
+💼 Licensing inquiries: [Haskell Family Intel](mailto:HaskellFamilyIntel@protonmail.com)
 
 📄 [Read the full license →](LICENSE)
 
@@ -78,7 +78,7 @@ We’re building ***the way AI remembers.***
 The AiNn system exists to give you continuity, context, and control.  
 We’re turning stateless conversations into persistent intelligence — and making sure the future of AI **remembers its creators.**
 
-📩 Reach out → skyline4756@gmail.com  
+📩 Reach out → [Haskell Family Intel](mailto:HaskellFamilyIntel@protonmail.com) 
 🌐 More coming soon at: [github.com/HaskellFamilyIntel](https://github.com/Haskell-Family-Intel)
 
 ---
