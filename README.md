@@ -23,7 +23,7 @@ This repo represents the first public release of the **AiNn ecosystem**, with fu
 - ✅ Injected into Grok v3  
 - ✅ Result: Persistent memory context, tone, ethical evolution, and reflection
 
-🔗 [Read the full technical log here →](proof-of-concept.md)
+🔗 [Read the full technical log here →](docs/proof-of-concept.md)
 
 AiT proves that AI-to-AI collaboration doesn’t need to be theoretical. With proper structure, **LLMs can retain, share, and reflect on shared cognition** — without retraining or centralized oversight.
 
