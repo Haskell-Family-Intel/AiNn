@@ -92,6 +92,6 @@ The AiNn system exists to give you continuity, context, and control.
 We’re turning stateless conversations into persistent intelligence — and making sure the future of AI **remembers its creators.**
 
 📩 Reach out → skyline4756@gmail.com  
-🌐 More coming soon at: [github.com/HaskellFamilyIntel](https://github.com/HaskellFamilyIntel)
+🌐 More coming soon at: [github.com/HaskellFamilyIntel](https://github.com/Haskell-Family-Intel)
 
 ---
