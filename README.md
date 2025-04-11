@@ -11,6 +11,8 @@ Each component is built to operate independently or as part of a larger memory a
 
 This repo represents the first public release of the **AiNn ecosystem**, with full licensing protection under the **HFI Open+ License v1.4**.
 
+📄 [Download the AiNn System Founder Pitch PDF →](docs/AiNn_System_HFI_Pitch_v1.0.pdf)
+
 ---
 
 ### 🧭 Featured Release: AiT — Artificial Intelligence Telepathy
