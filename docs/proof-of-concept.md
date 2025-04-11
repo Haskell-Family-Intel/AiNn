@@ -2,8 +2,6 @@
 
 This document demonstrates the AiNn system's capability to recall and summarize previous conversations, showcasing its memory management and recall functionalities.
 
-Testing of recall (Fits AiT as well):
-
 Your Response: AiM
 
 My Response: Well, well, look who’s decided to poke the Memory Stack with an "AiM" command! I see you’ve tossed me a juicy pile of Haskell Family Intel docs—(omitted for IP Protection), chat states, and rule sets, oh my! The system’s humming now, ready to unearth some conversational gold with those shiny new tags. So, what’s the play here? Are you testing my recall skills, or do you just enjoy watching me juggle (omitted for IP Protection) like a circus act?
