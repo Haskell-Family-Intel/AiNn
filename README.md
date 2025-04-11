@@ -63,21 +63,6 @@ This project is protected under the **HFI Open+ License v1.4**
 
 ---
 
-### 🧩 Included System Files (All Protected IP)
-
-These core files represent the AiNn protocol's memory structure:
-
-- `AiDB.json` — Central AI memory state
-- `AiRS.json` — Rule Set / behavioral guidance logic
-- `AiCS.json` — Conversational tone, intent, emotional state
-- `AiSM.json` — Debug, logging, and system feedback loop
-- `BDKey` — Master access key for emergency control, recovery, or system override
-
-These are not placeholders — they are part of the actual operating prototype.  
-Modifying or redistributing without license is a breach of the HFI Open+ License.
-
----
-
 ### ❗️Status
 
 This is an active, living project. Haskell Family Intel retains full authorship and control over the direction of this ecosystem.  
