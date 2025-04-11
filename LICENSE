@@ -19,10 +19,10 @@ These identifiers, whether referenced by full name or abbreviation, are protecte
 The Work also includes proprietary file structures and formats essential to system operation:
 
 - **BDKey** – Master override access and administrative backdoor control  
-- **AiCS.json** – Conversational State: Tracks tone, mood, and recent dialogue context  
-- **AiDB.json** – Primary AI memory and data core  
-- **AiSM.json** – System Manager: Debugging, logging, alerting, and telemetry  
-- **AiRS.json** – Rule Set: Behavioral constraints and RAG-style guidance logic
+- **AiCS** – Conversational State: Tracks tone, mood, and recent dialogue context  
+- **AiDB** – Primary AI memory and data core  
+- **AiSM** – System Manager: Debugging, logging, alerting, and telemetry  
+- **AiRS** – Rule Set: Behavioral constraints and RAG-style guidance logic
 
 These files and any derivatives (renamed, obfuscated, or otherwise restructured) remain protected and enforceable under this license.
 
