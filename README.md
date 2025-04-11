@@ -55,7 +55,7 @@ This project is protected under the **HFI Open+ License v1.4**
 - ❌ No rebranding, attribution removal, or derivative misrepresentation  
 - ✅ Legal enforcement includes attribution integrity, corporate audit rights, and retroactive IP defense
 
-💼 Licensing inquiries: [haskellfamilyintel@protonmail.com](mailto:skyline4756@gmail.com)
+💼 Licensing inquiries: [skyline4756@gmail.com](mailto:skyline4756@gmail.com)
 
 📄 [Read the full license →](LICENSE)
 
